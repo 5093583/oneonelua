@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>add_btn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,75},{88,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{88,72}</string>
+			</dict>
+			<key>bind_phone.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{804,0},{78,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{78,82}</string>
+			</dict>
+			<key>bind_referrer.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{886,0},{78,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{78,82}</string>
+			</dict>
+			<key>BTC_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{968,0},{44,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{44,44}</string>
+			</dict>
+			<key>close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{239,75},{58,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{58,60}</string>
+			</dict>
+			<key>copy_btn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{88,75},{88,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{88,72}</string>
+			</dict>
+			<key>EHT_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{968,44},{44,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{44,44}</string>
+			</dict>
+			<key>gift_enter.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{176,75},{63,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{63,63}</string>
+			</dict>
+			<key>sex_female.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{343,75},{36,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{36,36}</string>
+			</dict>
+			<key>sex_male.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{379,75},{36,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{36,36}</string>
+			</dict>
+			<key>tab_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{528,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{528,75}</string>
+			</dict>
+			<key>tab_bg_center.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{528,0},{138,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{138,75}</string>
+			</dict>
+			<key>tab_selected.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{666,0},{138,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{138,75}</string>
+			</dict>
+			<key>USDT_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{299,75},{44,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{44,44}</string>
+			</dict>
+			<key>horizontal_line.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1012,0},{18,2}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{18,2}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PersonanInfo.png</string>
+			<key>realTextureFileName</key>
+			<string>PersonanInfo.png</string>
+			<key>size</key>
+			<string>{1024,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

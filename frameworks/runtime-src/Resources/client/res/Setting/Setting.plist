@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>close_select.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{481,0},{102,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{102,59}</string>
+			</dict>
+			<key>exit_btn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{685,0},{72,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{72,72}</string>
+			</dict>
+			<key>open_select.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{583,0},{102,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{102,59}</string>
+			</dict>
+			<key>setting_list_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{150,0},{158,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{158,104}</string>
+			</dict>
+			<key>setting_logo_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{150,150}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,150}</string>
+			</dict>
+			<key>swith_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{308,0},{173,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{173,59}</string>
+			</dict>
+			<key>close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{757,0},{58,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,60}</string>
+			</dict>
+			<key>horizontal_line.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{815,0},{18,2}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{18,2}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Setting.png</string>
+			<key>realTextureFileName</key>
+			<string>Setting.png</string>
+			<key>size</key>
+			<string>{833,150}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>833</integer>
+			<key>height</key>
+			<integer>150</integer>
+		</dict>
+	</dict>
+</plist>

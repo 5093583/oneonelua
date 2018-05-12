@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>custormer_service_logo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{158,0},{126,130}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{126,130}</string>
+			</dict>
+			<key>QQ_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{348,0},{54,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{54,60}</string>
+			</dict>
+			<key>wechat_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{288,0},{60,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{60,56}</string>
+			</dict>
+			<key>custormer_service_item_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{158,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{158,104}</string>
+			</dict>
+			<key>close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{88,104},{58,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{58,60}</string>
+			</dict>
+			<key>copy_btn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,104},{88,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{88,72}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>CustormerService.png</string>
+			<key>realTextureFileName</key>
+			<string>CustormerService.png</string>
+			<key>size</key>
+			<string>{512,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

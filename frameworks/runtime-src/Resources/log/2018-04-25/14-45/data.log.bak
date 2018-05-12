@@ -1,0 +1,86 @@
+[
+    {
+        "logtime": "2018/04/25 14:45:05",
+        "logdata": {
+            "cbCardValue": [
+                5,
+                5,
+                5
+            ],
+            "cbType": 1,
+            "cbCardNum": 3
+        }
+    },
+    {
+        "logtime": "2018/04/25 14:45:05",
+        "logdata": {
+            "cbCardValue": [
+                5,
+                5,
+                5
+            ],
+            "cbType": 1,
+            "cbCardNum": 3
+        }
+    },
+    {
+        "logtime": "2018/04/25 14:45:06",
+        "logdata": {
+            "cbCardValue": [
+                5,
+                5,
+                5
+            ],
+            "cbType": 1,
+            "cbCardNum": 3
+        }
+    },
+    {
+        "logtime": "2018/04/25 14:45:06",
+        "logdata": {
+            "cbCardValue": [
+                5,
+                5,
+                5
+            ],
+            "cbType": 1,
+            "cbCardNum": 3
+        }
+    },
+    {
+        "logtime": "2018/04/25 14:45:14",
+        "logdata": {
+            "cbCardValue": [
+                37,
+                37,
+                37
+            ],
+            "cbType": 1,
+            "cbCardNum": 3
+        }
+    },
+    {
+        "logtime": "2018/04/25 14:45:14",
+        "logdata": {
+            "cbCardValue": [
+                37,
+                37,
+                37
+            ],
+            "cbType": 1,
+            "cbCardNum": 3
+        }
+    },
+    {
+        "logtime": "2018/04/25 14:45:14",
+        "logdata": {
+            "cbCardValue": [
+                37,
+                37,
+                37
+            ],
+            "cbType": 1,
+            "cbCardNum": 3
+        }
+    }
+]

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>exchange_input_box.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{375,0},{262,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{262,48}</string>
+			</dict>
+			<key>exchange_logo_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{169,131}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{169,131}</string>
+			</dict>
+			<key>selected_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{375,48},{58,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,58}</string>
+			</dict>
+			<key>selected_check_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{169,76},{58,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,58}</string>
+			</dict>
+			<key>close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{637,0},{58,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{58,60}</string>
+			</dict>
+			<key>exchange_btn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{169,0},{206,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{206,76}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Exchange.png</string>
+			<key>realTextureFileName</key>
+			<string>Exchange.png</string>
+			<key>size</key>
+			<string>{1024,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>btc_num_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{942,412},{168,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{168,38}</string>
+			</dict>
+			<key>buy_record_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{888,644},{54,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{54,56}</string>
+			</dict>
+			<key>list_item_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{810,0},{784,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{784,78}</string>
+			</dict>
+			<key>store_item_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,487},{266,283}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{266,283}</string>
+			</dict>
+			<key>store_pop_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{810,487}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{810,487}</string>
+			</dict>
+			<key>store_tab_seclected.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{888,0},{218,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{218,120}</string>
+			</dict>
+			<key>btc_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{418,487},{138,152}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{138,152}</string>
+			</dict>
+			<key>btc_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{172,770},{182,152}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{182,152}</string>
+			</dict>
+			<key>btc_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{266,487},{180,152}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{180,152}</string>
+			</dict>
+			<key>btc_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,784},{172,180}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,180}</string>
+			</dict>
+			<key>btc_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{888,218},{194,115}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{194,115}</string>
+			</dict>
+			<key>btc_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{324,784},{165,156}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{165,156}</string>
+			</dict>
+			<key>btc_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{942,638},{56,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{56,56}</string>
+			</dict>
+			<key>store_title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{888,412},{232,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{232,54}</string>
+			</dict>
+			<key>close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{942,580},{58,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{58,60}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Store.png</string>
+			<key>realTextureFileName</key>
+			<string>Store.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>
